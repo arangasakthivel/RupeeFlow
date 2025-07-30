@@ -1,8 +1,4 @@
-<h1 align="center">💸 Wallet - Expense Tracker with React Native & Express 🚀</h1>
-
-![Demo App](/mobile/assets/images/screenshot-for-readme.png)
-
-## 🎯 What You'll Build
+<h1 align="center">💸 RupeeFlow (Wallet - Expense Tracker) with React Native & Express 🚀</h1>
 
 This isn't just a front-end app — it's a **complete mobile application** with backend integration, authentication, and cloud-based storage.
 
@@ -25,11 +21,9 @@ This isn't just a front-end app — it's a **complete mobile application** with 
 
 ---
 
-## 🧠 What You’ll Learn
-
-- ⚙️ Build and deploy an **Express API** with **PostgreSQL** using **Neon**
+- ⚙️ Built and deploy an **Express API** with **PostgreSQL** using **Neon**
 - 🔐 Implement authentication & email verification with **Clerk**
-- 📲 Build a full mobile app with **React Native & Expo**
+- 📲 Built a full mobile app with **React Native & Expo**
 - 🧵 Manage state and navigation using **React Navigation**
 - 🛡️ Understand and apply **Rate Limiting** using **Redis**
 - 🚀 Deploy both backend & mobile with cloud-based tools
