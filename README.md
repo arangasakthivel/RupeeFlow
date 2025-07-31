@@ -18,7 +18,8 @@ This isn't just a front-end app — it's a **complete mobile application** with 
 - 🗑️ **Delete transactions** to update balance
 - 🚪 **Logout** to navigate back to login screen
 
-![Image 1](mobile/assets/images/image1)
+<img src="mobile/assets/images/image1" width="300"/> 
+
 
 
 ---
@@ -31,7 +32,7 @@ This isn't just a front-end app — it's a **complete mobile application** with 
 - 🚀 Deploy both backend & mobile with cloud-based tools
 - 🧪 Beginner-friendly for first-time React Native devs
 
-![Image 2](mobile/assets/images/image2)
+<img src="mobile/assets/images/image2" width="300"/>
 ---
 
 ## 📁 .env Setup
